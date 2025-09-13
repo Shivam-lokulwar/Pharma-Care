@@ -1,37 +1,22 @@
 PharmaCare Management System
-
-A comprehensive Pharmacy Management System built with React, Node.js, Express.js, and MongoDB. It helps manage medicines, sales, prescriptions, suppliers, and reports with real-time features.
+A modern, full-stack pharmacy management system built with React, Node.js, Express.js, and MongoDB.
+Manage medicines, sales, prescriptions, suppliers, and generate reports with real-time updates and a responsive dashboard.
 
 🚀 Features
 Frontend (React + JavaScript)
-
 Modern dashboard with analytics
-
 Medicine & Inventory Management
-
 Sales Processing
-
 Supplier & Category Management
-
 Reports & Charts
-
 User Authentication (Role-based)
-
 Responsive UI with Tailwind CSS
-
 Backend (Node.js + Express.js + MongoDB)
-
 RESTful API with JWT authentication
-
 MongoDB with Mongoose ODM
-
 Real-time updates with Socket.IO
-
 Input validation & error handling
-
 Security with Helmet, bcrypt, rate limiting
-
-Sample database seeding
 
 🛠️ Tech Stack
 
