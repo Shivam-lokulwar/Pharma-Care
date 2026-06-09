@@ -107,3 +107,8 @@ Submit a pull request
 MIT License
 
 ✨ PharmaCare Management System – A modern, full-stack solution for pharmacy management with real-time features and secure workflows.
+
+here some are screenshots of projects
+
+<img width="1915" height="962" alt="Screenshot 2025-07-09 195037" src="https://github.com/user-attachments/assets/85100816-97c6-449f-844e-2c5ccd6a9eb8" />
+
